@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cgamble1522
+- 👀 I’m interested in Java/AI/ And Devops
+- 🌱 I’m currently learning everything
+- 📫 How to reach me ...
